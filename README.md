@@ -10,10 +10,15 @@
 - Корректная обработка Ctrl+C (SIGINT)
 
 Первый запуск:
+
 [Cache] No cache file found. Starting with empty cache
+
 DNS server running on port 53
 
 Второй запуск:
+
 [Cache] Initial loaded records: 1
+
 [Cache] Loaded 1 valid records (0 expired records removed)
+
 DNS server running on port 53
